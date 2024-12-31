@@ -1,5 +1,7 @@
 #ДПИ22-1 Быкова Ксения Дмитриевна
 
+#Ссылка на гитхаб https://github.com/whoiskseny/1_echo_server/tree/whoiskseny-Лабораторная-Простой-эхо-сервер
+
 import socket
 
 def my_client():
